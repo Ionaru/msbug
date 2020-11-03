@@ -1,4 +1,4 @@
-import MeiliSearch from 'meilisearch';
+import * as MeiliSearch from 'meilisearch';
 
 const x = new MeiliSearch({
     apiKey: '123',

@@ -3,7 +3,7 @@
         "baseUrl": "",
         "strict": true,
         "lib": [
-            "esnext"
+            "esnext", "dom"
         ],
         "module": "commonjs",
         "moduleResolution": "node",
